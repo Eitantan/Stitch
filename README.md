@@ -1,2 +1,2 @@
-# Stitch
-The bridge between front end and back end
+# Abandoned:
+### Go to Stitch.github.io
