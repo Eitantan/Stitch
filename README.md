@@ -1,2 +1,2 @@
-# Abandoned:
-### Go to Stitch.github.io
+# Continued!
+### Go to eitantan.github.io/stitch
